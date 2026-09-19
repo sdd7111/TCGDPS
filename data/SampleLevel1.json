@@ -1,17 +1,17 @@
 {
     "id": 114,
-    "name": "Silent Dicctras",
-    "author": "StallionGD",
-    "creators": ["STALLIONGD"],
-        "verifier": "gdenosrobot",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "name": "RejectX Challenge",
+    "author": "MrGreece",
+    "creators": ["MRGREECE"],
+        "verifier": "MrGreece",
+    "verification": "https://youtu.be/LVewQWQZ_uQ",
+    "percentToQualify": 20,
+    "password": "120 FPS",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
+            "user": "RejectX",
+            "link": "https://sites.google.com/view/nvc-for-twcl/home",
+            "percent": 33,
             "hz": 360
         }
     ]
