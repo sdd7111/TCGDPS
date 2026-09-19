@@ -17,8 +17,10 @@
     text-align: end;
     padding-right: 1rem;
 }
-.page-list .list .level {
-    width: 100%;
+.page-list .list .level.active {
+    position: sticky;
+    top: 0;
+    z-index: 1;
 }
 .page-list .list .level button {
     background-color: var(--color-background);
